@@ -1,1 +1,2 @@
-net user administrator %1
+
+net user administrator "%1" /Y
